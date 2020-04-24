@@ -14,7 +14,7 @@ def perform_math():
     equation = ""
 
     if previous == 0:
-        equation = input("Enter the Equation:")
+        equation = input("Enter Equation:")
     else:
         equation = input(str(previous))
 
